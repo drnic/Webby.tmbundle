@@ -4,6 +4,11 @@
 <dict>
 	<key>name</key>
 	<string>Webby</string>
+	<key>ordering</key>
+	<array>
+		<string>47AFCBF8-07A6-4A94-B394-0CDE3F110798</string>
+		<string>F3AC4015-7936-4C1F-90DD-4A3F517CBAE9</string>
+	</array>
 	<key>uuid</key>
 	<string>0D233458-334D-47E5-BA40-12B9C4695C8E</string>
 </dict>

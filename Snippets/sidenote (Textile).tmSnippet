@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>p(sidenote). </string>
+	<key>name</key>
+	<string>sidenote (Textile)</string>
+	<key>scope</key>
+	<string>text.html.textile</string>
+	<key>tabTrigger</key>
+	<string>side</string>
+	<key>uuid</key>
+	<string>F3AC4015-7936-4C1F-90DD-4A3F517CBAE9</string>
+</dict>
+</plist>
