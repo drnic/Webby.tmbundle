@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;% coderay(:lang =&gt; "${1:ruby}") do -%&gt;
+$0
+&lt;% end -%&gt;
+</string>
+	<key>name</key>
+	<string>untitled</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>coderay</string>
+	<key>uuid</key>
+	<string>47AFCBF8-07A6-4A94-B394-0CDE3F110798</string>
+</dict>
+</plist>
